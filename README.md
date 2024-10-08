@@ -1,6 +1,6 @@
 # James Woods LLC
 
-James Woods LLC is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+James Woods LLC is a fully responsive business portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
 ## Demo
 
